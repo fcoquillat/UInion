@@ -1,5 +1,4 @@
-# coquillator
-Original curated resources list for design inspiration and product design.
+# Coquillator, Original curated resources list for design inspiration and product design.
 
 ## General freebies:
   https://pixelbuddha.net/freebies (weekly freebies)
