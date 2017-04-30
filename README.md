@@ -1,11 +1,10 @@
 # UInion
 Original curated resources list for design inspiration and product design.
 
-* [Design resources](/Design%20Resources.md)
-## Design resources
+## [Design resources](/Design%20Resources.md)
 
 ### General freebies:
-  * https://pixelbuddha.net/freebies (weekly freebies)
+  * https://pixelbuddha.net/freebies(weekly freebies)
   * https://dealjumbo.com/downloads/category/freebies/ (very messy, check on your spare time)
   * https://pixabay.com (All sorts of stuff, good for illustrations)
   
