@@ -23,7 +23,7 @@
   * <a href="http://fontpair.co/">http://fontpair.co/</a> (Google Fonts pairing)
 
 
-## [Front end] (/Frontend.md)
+## [Front end](/Frontend.md)
 
 ### Code snippets and others
 
