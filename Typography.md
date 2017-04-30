@@ -1,2 +1,2 @@
 ### Font pairing
-  * http://fontpair.co/ (Google Fonts pairing)
+<a href="http://fontpair.co/">http://fontpair.co/</a> (Google Fonts pairing)
