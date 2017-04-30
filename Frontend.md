@@ -1,2 +1,2 @@
 ### Code snippets and others
-* [Free Frontend] http://freefrontend.com/
+* http://freefrontend.com/ (Lots of small snippets, UI Kits, JS, Books...)
