@@ -1,2 +1,2 @@
 ### Code snippets and others
-* http://freefrontend.com/ (Lots of small snippets, UI Kits, JS, Books...)
+<a href="http://freefrontend.com/">http://freefrontend.com/</a> (Lots of small snippets, UI Kits, JS, Books...)
