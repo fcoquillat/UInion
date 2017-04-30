@@ -19,16 +19,7 @@
 
 ## [Typography](/Typography.md)
 
-### Font pairing
-  * <a href="http://fontpair.co/">http://fontpair.co/</a> (Google Fonts pairing)
-
-
 ## [Front end](/Frontend.md)
-
-### Code snippets and others
-
-  * <a href="http://freefrontend.com/">http://freefrontend.com/</a> (Lots of small snippets, UI Kits, JS, Books...)
-  
   
 ## [Books](/books.md)
 
