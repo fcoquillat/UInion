@@ -1,6 +1,3 @@
-# UInion
-Original curated resources list for design inspiration and product design.
-
 ## [Design resources](/Design%20Resources.md)
 
 ### General freebies:
