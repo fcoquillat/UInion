@@ -17,8 +17,19 @@
   * https://www.behance.net/ (Online product portfolios)
 
 
-* [Typography](https://github.com/fcoquillat/UInion/blob/master/Typography.md)
+## [Typography](/Typography.md)
 
-* [Front end](https://github.com/fcoquillat/UInion/blob/master/Frontend.md)
+### Font pairing
+  * <a href="http://fontpair.co/">http://fontpair.co/</a> (Google Fonts pairing)
 
-* [Books](https://github.com/)
+
+## [Front end] (/Frontend.md)
+
+### Code snippets and others
+
+  * <a href="http://freefrontend.com/">http://freefrontend.com/</a> (Lots of small snippets, UI Kits, JS, Books...)
+  
+  
+## [Books](/books.md)
+
+
