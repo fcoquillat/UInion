@@ -27,7 +27,4 @@
   * <a href="http://www.storepages.xyz/">http://www.storepages.xyz/</a> (Store pages inspiration)
   * <a href="http://www.pricingpages.xyz/">http://www.pricingpages.xyz/</a> (Pricing pages inspiration)
   * <a href="http://www.checkoutpages.xyz/">http://www.checkoutpages.xyz/</a> (Checkout pages inspiration)
-  * <a href="https://www.behance.net/">https://www.behance.net/</a> (Online product portfolios)
-  * <a href="https://www.behance.net/">https://www.behance.net/</a> (Online product portfolios)
-  * <a href="https://www.behance.net/">https://www.behance.net/</a> (Online product portfolios)
   * <a href="http://brutalistwebsites.com/">http://brutalistwebsites.com/</a> (Brutalism design)
