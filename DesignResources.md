@@ -11,6 +11,9 @@
 ### E-mail templates
   * <a href="https://reallygoodemails.com/">https://reallygoodemails.com/</a> (A lot of good email templates for free)
   
+### Illustrations
+  * <a href="https://undraw.co/illustrations">https://undraw.co/illustrations</a> (MIT License) 
+  
 ### Photography:
   * <a href="http://fancycrave.com/">http://fancycrave.com/</a> (Handpicked stock photos)
   * <a href="https://unsplash.com/">https://unsplash.com/</a> (Free photography, my favourite)
